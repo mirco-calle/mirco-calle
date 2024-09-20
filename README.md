@@ -28,6 +28,7 @@ Comunidad dedicada a parender y conmpartir conocimientos en programacion y tecno
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Las estadisticas del repositorio
 ![Stats](https://github-readme-stats.vercel.app/api?username=mirco-calle&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirco-calle&layout=compact&theme=dark)
+
