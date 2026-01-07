@@ -63,7 +63,7 @@ Soy un desarrollador full stack con experiencia en la construcción de aplicacio
 
 ## 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mirco-calle&theme=highcontrast&hide_border=true&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mircodev&theme=highcontrast&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ---
 
